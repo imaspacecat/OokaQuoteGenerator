@@ -1,0 +1,6 @@
+{% extends "base.peb" %}
+{% block content %}
+    <h1>Ooka Quote Generator</h1>
+    <p>{{test}}</p>
+{% endblock %}
+
